@@ -106,13 +106,7 @@ Along with the generated answer, the application displays the retrieved document
 
 ## Workflow:
 
-User Question
-↓
-Retrieve Relevant Context
-↓
-Provide Context to LLM
-↓
-Generate Grounded Answer
+User Question → Retrieve Relevant Context → Provide Context to LLM → Generate Grounded Answer
 
 ## Benefits:
 
